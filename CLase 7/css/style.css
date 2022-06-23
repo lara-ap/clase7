@@ -1,0 +1,23 @@
+.btn1, .btn3 {
+    background-color: rgb(214, 5, 58);
+    color: #fff;
+}
+.btn3{
+    flex: 5;
+}
+.btn1{
+    flex: 1;
+}
+
+.btn2 {
+    background-color: #174057;
+    color: #fff;
+
+    flex: 4;
+}
+.padre {
+    border: 1px solid;
+    display: flex;
+    
+
+}
